@@ -9,7 +9,7 @@ In the final part of this project we had to modify the second part to be able to
 * Users should be able to invite other users to see/modify their groups according to the permission given. Only the "_master_" of a certain group can delete that same group but users with permissions can see and/or modify them.
 * Every user can access a specific page where he can accept or refuse the invitations sent to him.
 
-Last but not least, made once again with the contribution of @HenriqueCalho.
+Last but not least, made once again with the contribution of Pedro Gabriel.
 
 # How did we solved it
 
